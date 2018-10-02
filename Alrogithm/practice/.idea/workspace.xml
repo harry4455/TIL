@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bef3431e-4398-4d76-8ad6-9c9a21b0170a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CandyGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CandyGame1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SevenDwarfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SplitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/Java Practice/src/ArrayListPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.md.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Java Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Java Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Java Practice/out/production/practice/DivideByZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Java Practice/out/production/practice/DivideByZero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Java Practice/src/DivideByZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Java Practice/src/DivideByZero.java" afterDir="false" />
-    </list>
+    <list default="true" id="bef3431e-4398-4d76-8ad6-9c9a21b0170a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +23,7 @@
     <session id="356406716">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="2" />
@@ -171,7 +155,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538448452041" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538448597974" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../18-1/parallel and distributed system/practice files" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
