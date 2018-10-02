@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d028c15d-12f4-4da8-b5f5-ed7830b80ab8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/src/CandyGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/src/CandyGame1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/src/SevenDwarfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/src/SplitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alrogithm/1.md.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/DivideByZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/DivideByZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DivideByZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivideByZero.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,35 +71,37 @@
     <session id="122588843">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="groovy" value="1" />
-          <entry key="java" value="28" />
+          <entry key="java" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="28" />
+          <entry key="JAVA" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12320" />
+          <entry key="java" value="12879" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12320" />
+          <entry key="JAVA" value="12879" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -96,8 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PhoneBookVer05.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1265">
-              <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+            <state relative-caret-position="46">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding>
                 <element signature="method#readFriendInfo#0;class#PhoneBookManager3#0" />
                 <element signature="method#readUnivFriendInfo#0;class#PhoneBookManager3#0" />
@@ -110,10 +126,23 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ArrayListPractice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#158#167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PhoneBookVer04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1104">
+            <state relative-caret-position="1127">
               <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -125,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DivideByZero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -158,10 +187,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/printStackTrace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="797">
+            <state relative-caret-position="1058">
               <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
             </state>
           </provider>
@@ -222,17 +251,18 @@
         <option value="$PROJECT_DIR$/src/LocalParamAnonymous.java" />
         <option value="$PROJECT_DIR$/src/PhoneBookVer04.java" />
         <option value="$PROJECT_DIR$/src/PhoneBookVer05.java" />
-        <option value="$PROJECT_DIR$/src/DivideByZero.java" />
         <option value="$PROJECT_DIR$/src/ExceptionHandleUseTryCatch.java" />
         <option value="$PROJECT_DIR$/src/ProgrammerDefineException.java" />
         <option value="$PROJECT_DIR$/src/AgeInputExceptionTest.groovy" />
         <option value="$PROJECT_DIR$/src/ThrowsFromMain.java" />
         <option value="$PROJECT_DIR$/src/printStackTrace.java" />
+        <option value="$PROJECT_DIR$/src/DivideByZero.java" />
+        <option value="$PROJECT_DIR$/src/ArrayListPractice.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -242,8 +272,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,10 +292,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537510635506" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538373676634" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -297,9 +327,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.printStackTrace">
-    <configuration name="DivideByZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivideByZero" />
+  <component name="RunManager" selected="Application.ArrayListPractice">
+    <configuration name="ArrayListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListPractice" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -334,19 +364,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DivideByZero" />
       <item itemvalue="Application.ExceptionHandleUseTryCatch" />
       <item itemvalue="Application.ProgrammerDefineException" />
       <item itemvalue="Application.ThrowsFromMain" />
       <item itemvalue="Application.printStackTrace" />
+      <item itemvalue="Application.ArrayListPractice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListPractice" />
         <item itemvalue="Application.printStackTrace" />
         <item itemvalue="Application.ThrowsFromMain" />
         <item itemvalue="Application.ProgrammerDefineException" />
         <item itemvalue="Application.ExceptionHandleUseTryCatch" />
-        <item itemvalue="Application.DivideByZero" />
       </list>
     </recent_temporary>
   </component>
@@ -373,10 +403,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13219616" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27789935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -385,7 +414,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26431718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848485" weight="0.3637375" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,11 +422,11 @@
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32929516" />
       <window_info anchor="bottom" id="CheckStyle" order="9" weight="0.32929516" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061655" side_tool="true" weight="0.32599118" />
       <window_info anchor="bottom" id="Tail" order="11" />
       <window_info anchor="bottom" id="Problems" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32929516" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49938348" weight="0.32599118" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -671,35 +700,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AgeInputExceptionTest.groovy" />
-    <entry file="file://$PROJECT_DIR$/src/PhoneBookVer05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1265">
-          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-          <folding>
-            <element signature="method#readFriendInfo#0;class#PhoneBookManager3#0" />
-            <element signature="method#readUnivFriendInfo#0;class#PhoneBookManager3#0" />
-            <element signature="method#readCompanyFriendInfo#0;class#PhoneBookManager3#0" />
-            <element signature="method#searchData#0;class#PhoneBookManager3#0" />
-            <element signature="method#deleteData#0;class#PhoneBookManager3#0" />
-            <element signature="method#search#0;class#PhoneBookManager3#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PhoneBookVer04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
+        <state relative-caret-position="1127">
           <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DivideByZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -726,8 +733,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/printStackTrace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="797">
+        <state relative-caret-position="1058">
           <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DivideByZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PhoneBookVer05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding>
+            <element signature="method#readFriendInfo#0;class#PhoneBookManager3#0" />
+            <element signature="method#readUnivFriendInfo#0;class#PhoneBookManager3#0" />
+            <element signature="method#readCompanyFriendInfo#0;class#PhoneBookManager3#0" />
+            <element signature="method#searchData#0;class#PhoneBookManager3#0" />
+            <element signature="method#deleteData#0;class#PhoneBookManager3#0" />
+            <element signature="method#search#0;class#PhoneBookManager3#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayListPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#158#167#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

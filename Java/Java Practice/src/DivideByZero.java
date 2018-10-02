@@ -7,11 +7,10 @@ public class DivideByZero {
         int num1 = keyboard.nextInt();
         int num2 = keyboard.nextInt();
 
-        try{
-            System.out.println("나눗셈 결과의 몫 : " + (num1/num2));
-            System.out.println("나눗셈 결과의 나머지 : " + (num1%num2));
-        }
-        catch (ArithmeticException e){
+        try {
+            System.out.println("나눗셈 결과의 몫 : " + (num1 / num2));
+            System.out.println("나눗셈 결과의 나머지 : " + (num1 % num2));
+        } catch (ArithmeticException e) {
             System.out.println("나눗셈 불가능");
             System.out.println(e.getMessage());
         }
