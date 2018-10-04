@@ -25,3 +25,5 @@ B(n) - 최선 시간복잡도 (best-case time complexity analysis)
 이를 비교하는 것이 복잡도 카테고리 (complexity category)
 
 big O - notation
+big Omega-notation
+small o notation
