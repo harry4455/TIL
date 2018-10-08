@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d028c15d-12f4-4da8-b5f5-ed7830b80ab8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/src/Eureka_Theory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/src/numBaseball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadStringFromFileLineByLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringTokenProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/.idea/GrepConsole.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/src/RecolorChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alrogithm/practice/src/SumOfSubset.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Alrogithm/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alrogithm/practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Alrogithm/practice/src/CandyGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alrogithm/practice/src/CandyGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Alrogithm/practice/src/CandyGame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alrogithm/practice/src/CandyGame1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/CandyGame$sc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/CandyGame$sc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/CandyGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/CandyGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/CandyGame1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/CandyGame1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/Eureka_Theory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/Eureka_Theory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/numBaseball$Baseball.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/numBaseball$Baseball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/numBaseball.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alrogithm/practice/out/production/practice/numBaseball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alrogithm/practice/src/Eureka_Theory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alrogithm/practice/src/Eureka_Theory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -64,14 +68,16 @@
     <session id="122588843">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -123,7 +129,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayListPractice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="667">
               <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -136,7 +142,7 @@
         <entry file="file://$PROJECT_DIR$/src/ReadStringFromFileLineByLine.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -145,7 +151,7 @@
         <entry file="file://$PROJECT_DIR$/src/StringTokenProg.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -285,8 +291,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,10 +311,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538633196718" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538633501637" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -419,7 +425,7 @@
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28446388" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30415756" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -428,7 +434,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848485" visible="true" weight="0.3448276" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848485" weight="0.3448276" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -672,6 +678,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayListPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReadStringFromFileLineByLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/PhoneBookVer04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1104">
@@ -717,27 +740,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayListPractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReadStringFromFileLineByLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StringTokenProg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>

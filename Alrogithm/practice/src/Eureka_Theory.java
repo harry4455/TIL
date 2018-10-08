@@ -1,4 +1,5 @@
-// 아직 안풀림
+/*아직 안풀림
+해설 참고 : http://dbdobi.tistory.com/2*/
 
 import java.util.Scanner;
 
