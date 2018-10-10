@@ -1,9 +1,8 @@
-알고리즘 : 효율, 분석, 차수
-=============
+#알고리즘 : 효율, 분석, 차수
 
-단위연산 (basic instruction)
+##단위연산 (basic instruction)
 
-시간 복잡도 (time complexity analysis)
+##시간 복잡도 (time complexity analysis)
 
 T(n) - 일정 시간복잡도 (every-case time complexity)
 

@@ -51,7 +51,7 @@ public class SumOfSubset {
         }
 */
     }
-
+// 이 부분 물어보기
     private static void solve(int sum, int step) {
         if (step == n){
             if(sum == s) cnt++;
