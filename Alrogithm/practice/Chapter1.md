@@ -3,33 +3,42 @@
 ---
 @@ Based on "Foundations of Algorithms" & other resources
 
-###What is an Algorithm?
-> It is a computational problem which specifies an input-output relationship.  
-> 어떠한 입력 인수에 대한 해답을 찾아주는 일반적 단계적 절차 = **ALGORITHM**
-
-> keyword : "문제" "해답" "알고리즘"
-
-
-###How do we study Algorithms?
-> Two Types : Problem-based, Design-based
->> Problem-based : classifying algorithms according to the type of problem  
->> ex. sorting, searching   
->> Design-based : classifying algorithms according to the type of design technique  
->> ex. Divide and Conquer, dynamic programming algorithms  
->  
-> 알고리즘은 2가지 type으로 표현이 가능하다.  
-> Sturctured English VS. Pseudocode  
-> 어떠한 프로그래밍 언어러도 알고리즘은 표현이 가능하다.
-
-###Fundamentals of Algorithmic Problem Solving
-> I. Understand the Problem (문제를 이해한다.)   
-> II. Decide On Computational Means / approximate solution, Data Structure, design technique (연산적인 부분의 이해와 결정)  
-> III. Design an Algorithm (알고리즘을 디자인한다.)  
-> IV. Prove Correctness (정확도를 증명한다.)   
-> V. Analyze the algorithm (알고리즘을 분석한다.)  
-> VI. Code the Algorithm (알고리즘을 작성한다.)  
-
-
+## Basic concepts  
+> Following concepts for design and implement large scale computer programs.  
+>> * System Life Cycle  
+>> 큰 크기의 컴퓨터 프로그램들은 기본적으로 개발 과정에서 System Life Cycle 을 거친다.  
+>>  
+>>   a. Requirements Specifications Phase  
+>>   세부사항 항목은 프로젝트의 목적과도 같다. 
+>>    
+>>   b. Analysis Phase  
+>>   분석을 통해 해결할 문제를 나누어 다룰수 있을 만한 부분으로 나누어준다.  
+>>   ***ex) Bottom-up approach, Top-down approach***  
+>>  
+>>   c. System Design  
+>>   Data objects which are needed by the program  
+>>   The operations performed on data objects - require algorithm specification and design strategies  
+>>   
+>>   d. Refinement and Coding Phase  
+>>   데이터 객체에 대한 표현법이 정해지고 이를 위한 알고리즘으 쓰여지게 된다.  
+>>  
+>>   e. Verification Phase  
+>>   프로그램 정확도를 발전시키고 여러 입력값에 대해 프로그램을 테스트한다.  
+>>  
+>>  
+>>  * Algorithm Specification  
+>>  큰 규모의 시스템에서 중요한 역할을 하는 효율적인 알고리즘을 설계하는 과정이다.  
+>>   
+>>  * Data Abstraction  
+>>  Collection Objects and a set of operations  
+>>> Abstract Data Type  
+>>> 
+ 
+>>  * Data Structure  
+>>  **Data Structure = Abstract (logical) + Physical (Storage) Structure**  
+>>  Abstract Structure = deals with **mathematical aspect** of data   
+>>  ***ex) test for zero, addition, test for equality, successor***  
+>>  Storage Structure = deals with representation **data in computer storage**  
 
 
 ##단위연산 (basic instruction)
