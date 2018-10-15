@@ -1,8 +1,11 @@
 #분할정복 (Divied-and-Conquer)
 
+---
+
 ##1. 이분검색
-분할-정복-취합
+>분할-정복-취합,
 이를 재귀적으로 분할하여 지속적으로 실행함
+
 꼬리 재귀 (tail-recursion)
 
 ##2. 합병정렬 (two-way merging)
